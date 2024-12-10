@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 09DEC2024
+  Changes:
+    - initial release on the mod portal
+    - added basic functionality for circuit color lamp light parity
