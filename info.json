@@ -1,0 +1,9 @@
+{
+    "name": "circuit-color-lamp-light-parity",
+    "version": "0.1.0",
+    "title": "Circuit Color Lamp Light Parity",
+    "author": "asher_sky",
+    "description": "Makes circuit-controlled colored lamps shine with the same radius and intensity as standard colored lamps",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"]
+}
