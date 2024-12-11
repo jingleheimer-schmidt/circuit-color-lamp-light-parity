@@ -1,6 +1,6 @@
 {
     "name": "circuit-color-lamp-light-parity",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Colored Lamp Normalizer",
     "author": "asher_sky",
     "description": "Modifies circuit-controlled colored lamps to shine with the same radius and intensity as manually-colored ones",
